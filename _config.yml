@@ -28,7 +28,7 @@ twitter_username: (TBD)
 github_username:  AnneMKramer
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
