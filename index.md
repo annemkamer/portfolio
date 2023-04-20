@@ -3,8 +3,12 @@ layout: default
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## Welcome to Anne Kramer's Portfolio!
 
+Just setting up here.
+
+### email
+annek@andrew.cmu.edu
 
 #### Here are some example pages:
 
